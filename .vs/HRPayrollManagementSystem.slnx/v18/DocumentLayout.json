@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|c:\\users\\hilaly\\onedrive\\desktop\\3.1 projects\\hr payroll final\\hrpayrollmanagementsystem\\hrpayrollmanagementsystem\\departmentdesignationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|solutionrelative:hrpayrollmanagementsystem\\departmentdesignationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|c:\\users\\hilaly\\onedrive\\desktop\\3.1 projects\\hr payroll final\\hrpayrollmanagementsystem\\hrpayrollmanagementsystem\\leaveapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|solutionrelative:hrpayrollmanagementsystem\\leaveapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\hrpayrollmanagementsystem\\leaveapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|solutionrelative:hrpayrollmanagementsystem\\leaveapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|c:\\users\\hilaly\\onedrive\\desktop\\3.1 projects\\hr payroll final\\hrpayrollmanagementsystem\\hrpayrollmanagementsystem\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|solutionrelative:hrpayrollmanagementsystem\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\hrpayrollmanagementsystem\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|solutionrelative:hrpayrollmanagementsystem\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|c:\\users\\hilaly\\onedrive\\desktop\\3.1 projects\\hr payroll final\\hrpayrollmanagementsystem\\hrpayrollmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F42AB3-9C48-5AE2-CE7D-DD9197C3F417}|HRPayrollManagementSystem\\HRPayrollManagementSystem.csproj|solutionrelative:hrpayrollmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentDesignationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\DepartmentDesignationForm.cs",
+              "RelativeDocumentMoniker": "HRPayrollManagementSystem\\DepartmentDesignationForm.cs",
+              "ToolTip": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\DepartmentDesignationForm.cs [Design]",
+              "RelativeToolTip": "HRPayrollManagementSystem\\DepartmentDesignationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:05:25.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApplicationForm.cs",
+              "RelativeDocumentMoniker": "HRPayrollManagementSystem\\LeaveApplicationForm.cs",
+              "ToolTip": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApplicationForm.cs",
+              "RelativeToolTip": "HRPayrollManagementSystem\\LeaveApplicationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:46:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveApplicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApplicationForm.cs",
+              "RelativeDocumentMoniker": "HRPayrollManagementSystem\\LeaveApplicationForm.cs",
+              "ToolTip": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApplicationForm.cs [Design]",
+              "RelativeToolTip": "HRPayrollManagementSystem\\LeaveApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:46:22.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveApprovalForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApprovalForm.cs",
+              "RelativeDocumentMoniker": "HRPayrollManagementSystem\\LeaveApprovalForm.cs",
+              "ToolTip": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApprovalForm.cs",
+              "RelativeToolTip": "HRPayrollManagementSystem\\LeaveApprovalForm.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAADwvxEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:45:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveApprovalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApprovalForm.cs",
+              "RelativeDocumentMoniker": "HRPayrollManagementSystem\\LeaveApprovalForm.cs",
+              "ToolTip": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\LeaveApprovalForm.cs [Design]",
+              "RelativeToolTip": "HRPayrollManagementSystem\\LeaveApprovalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:45:13.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HRPayrollManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Hilaly\\OneDrive\\Desktop\\3.1 Projects\\HR Payroll final\\HRPayrollManagementSystem\\HRPayrollManagementSystem\\Program.cs",
+              "RelativeToolTip": "HRPayrollManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:45:06.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
